@@ -7,8 +7,7 @@
 [![Spotify]([https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul](https://open.spotify.com/user/31nq4tvwjmpxcxcijmc7lz7qdeli)) <be>
 
 </details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=orange&label=PROFILE+VIEWS)
+ <hr>
 </div>
 
 <hr></hr>
