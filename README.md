@@ -10,7 +10,7 @@
 ![Tools I use](https://img.shields.io/badge/%F0%9F%9A%80%20Tools%20I%20use-orange?style=flat-breaking) : ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Git](https://img.shields.io/badge/-GIT-orange?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code) ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat-square&logo=mongodb)
 
 ```javascript
-// tools_I_use organized
+// tools_I_use
 
 const About = {
   name: "Muhammed Abdo",
