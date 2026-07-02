@@ -1,41 +1,25 @@
-<div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxiM2Nrd3VwM2NuZ3R5cm94bXN5ZnM0Ynd4Y214d295Ym94ZzZwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding">
+</p>
 
-<details>
-<p><strong> <summary> Muhammed Abdo </summary> </strong></p>
+<h2 align="center">▶ Muhammed Abdo</h2>
 
-[![Spotify]([https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul](https://open.spotify.com/user/31nq4tvwjmpxcxcijmc7lz7qdeli)) <be>
+---
+---
 
-</details>
- <hr>
-</div>
+![Tools I use](https://img.shields.io/badge/%F0%9F%9A%80%20Tools%20I%20use-orange?style=flat-breaking) : ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Git](https://img.shields.io/badge/-GIT-orange?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code) ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat-square&logo=mongodb)
 
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-
-```dart
+```javascript
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart" },
-    "Frameworks" : { "Flutter" },
-    "Editors" : { "VSCode" },
-    "Database" : { "Firebase" },
-    "VersionControl" : { "Git" }
-  };
-}
-
-```
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-
-</div>
-
+const About = {
+  name: "Muhammed Abdo",
+  role: "Full Stack Developer",
+  myTools: {
+    programmingLanguages : ["JavaScript", "TypeScript"],
+    frameworks           : ["React.js", "Node.js", "Express.js"],
+    editors              : ["VSCode"],
+    database             : ["MongoDB", "PostgreSQL"],
+    versionControl       : ["Git"]
+  }
+};
